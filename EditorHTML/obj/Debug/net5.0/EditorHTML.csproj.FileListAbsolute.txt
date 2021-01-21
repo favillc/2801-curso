@@ -1,0 +1,16 @@
+C:\Users\gbrandao\Curso\EditorHTML\bin\Debug\net5.0\EditorHTML.exe
+C:\Users\gbrandao\Curso\EditorHTML\bin\Debug\net5.0\EditorHTML.deps.json
+C:\Users\gbrandao\Curso\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.json
+C:\Users\gbrandao\Curso\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.dev.json
+C:\Users\gbrandao\Curso\EditorHTML\bin\Debug\net5.0\EditorHTML.dll
+C:\Users\gbrandao\Curso\EditorHTML\bin\Debug\net5.0\ref\EditorHTML.dll
+C:\Users\gbrandao\Curso\EditorHTML\bin\Debug\net5.0\EditorHTML.pdb
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.csprojAssemblyReference.cache
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfoInputs.cache
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfo.cs
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.dll
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\ref\EditorHTML.dll
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.pdb
+C:\Users\gbrandao\Curso\EditorHTML\obj\Debug\net5.0\EditorHTML.genruntimeconfig.cache
